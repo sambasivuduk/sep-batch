@@ -18,5 +18,8 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <build>
+    <finalName>Release_0.02</finalName>
+  </build>
 </project>
 
