@@ -16,7 +16,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>mypage</finalName>
+    <finalName>my main page</finalName>
   </build>
 </project>
 
